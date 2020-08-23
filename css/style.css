@@ -18,7 +18,11 @@ main {
 
 .copyright {
   background-color: #000000;
-  padding: 10px;
+}
+
+.copyright p {
+  padding: 20px;
+  margin-bottom: 0;
 }
 
 .contact li,
@@ -248,4 +252,8 @@ main {
 
 .feature p {
   font-size: 18px;
+}
+
+iframe.map {
+  width: 100%;
 }
