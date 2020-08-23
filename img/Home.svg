@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="5012" viewBox="0 0 1920 5012">
+  <defs>
+    <pattern id="pattern" width="1" height="1" viewBox="-48.736 -76.929 1185.471 789.951">
+      <image preserveAspectRatio="none" width="1088" height="725" xlink:href="Home-image3.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 462 388">
+      <image width="462" height="388" xlink:href="../../web/RWD/final_homework/img/Map.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 536 354">
+      <image width="536" height="354" xlink:href="Home-image4.png"/>
+    </pattern>
+    <clipPath id="clip-Home">
+      <rect width="1920" height="5012"/>
+    </clipPath>
+  </defs>
+  <g id="Home" clip-path="url(#clip-Home)">
+    <rect width="1920" height="5012" fill="#fff"/>
+    <g id="what_we_do_title">
+      <g id="background" transform="translate(0 981)" fill="#fffff8" stroke="#707070" stroke-width="1">
+        <rect width="1920" height="1025" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1919" height="1024" fill="none"/>
+      </g>
+      <text id="What_we_do" data-name="What we do" transform="translate(751 1052)" fill="#3e3e3e" font-size="60" font-family="jf-openhuninn-1.0"><tspan x="40.572" y="59">What we do</tspan></text>
+      <line id="Line_1" data-name="Line 1" x2="128" transform="translate(623.5 1096.5)" fill="none" stroke="#3e3e3e" stroke-width="5"/>
+      <line id="Line_2" data-name="Line 2" x2="128" transform="translate(1169.5 1096.5)" fill="none" stroke="#3e3e3e" stroke-width="5"/>
+      <g id="database" transform="translate(1297 1250)">
+        <g id="Rectangle_13" data-name="Rectangle 13" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="430" height="601" rx="58" stroke="none"/>
+          <rect x="0.5" y="0.5" width="429" height="600" rx="57.5" fill="none"/>
+        </g>
+        <text id="Database-2" data-name="Database" transform="translate(63.831 292.109)" font-size="35" font-family="jf-openhuninn-1.0"><tspan x="69.54" y="34">Database</tspan></text>
+        <image id="database-3" data-name="database" width="190" height="190" transform="translate(117.946 67)" xlink:href="Home-image.png"/>
+        <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(6 382)">
+          <text id="Spatial_temporal_databases_Moving_object_processing_Scalable_continuous_query_processing_Spatial_data_indexing" data-name="Spatial / temporal databases
+Moving object processing
+Scalable continuous query processing
+Spatial data indexing" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="29">Spatial / temporal databases</tspan><tspan x="0" y="74">Moving object processing</tspan><tspan x="0" y="119">Scalable continuous query </tspan><tspan x="0" y="164">processing</tspan><tspan x="0" y="209">Spatial data indexing</tspan></text>
+        </g>
+      </g>
+      <g id="blockchain" transform="translate(-50 82)">
+        <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(243 1157)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="430" height="609" rx="58" stroke="none"/>
+          <rect x="0.5" y="0.5" width="429" height="608" rx="57.5" fill="none"/>
+        </g>
+        <image id="blockchain-2" data-name="blockchain" width="190" height="190" transform="translate(363 1211)" xlink:href="../info/%E6%8F%92%E7%95%AB/blockchain.png"/>
+        <text id="BlockChains" transform="translate(312 1461)" font-size="35" font-family="jf-openhuninn-1.0"><tspan x="46.452" y="34">BlockChains</tspan></text>
+        <text id="security_storage" data-name="security
+storage" transform="translate(353 1596)" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="50.229" y="29">security</tspan><tspan x="52.251" y="67">storage</tspan></text>
+      </g>
+      <g id="NLP" transform="translate(0 7)">
+        <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(745 1239)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="430" height="609" rx="58" stroke="none"/>
+          <rect x="0.5" y="0.5" width="429" height="608" rx="57.5" fill="none"/>
+        </g>
+        <image id="chatbot" width="190" height="190" transform="translate(881 1295)" xlink:href="Home-image2.png"/>
+        <text id="Natural_Language_Processing_" data-name="Natural Language Processing
+" transform="translate(757 1541)" font-size="35" font-family="jf-openhuninn-1.0"><tspan x="56.801" y="34">Natural Language </tspan><tspan x="114.906" y="78">Processing</tspan><tspan x="203.5" y="122"></tspan></text>
+        <text id="chatbot_reading_comprehendtion" data-name="chatbot
+reading comprehendtion" transform="translate(749 1671)" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="156.933" y="29">chatbot</tspan><tspan x="38.163" y="67">reading comprehendtion</tspan></text>
+      </g>
+    </g>
+    <g id="banner" transform="translate(-23 8)">
+      <g id="background-2" data-name="background" transform="translate(0 0.057)">
+        <g id="background-bg" transform="translate(0 -0.057)" fill="#fff" stroke="#fff" stroke-width="1">
+          <rect width="1920" height="973" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1919" height="972" fill="none"/>
+        </g>
+        <rect id="background-3" data-name="background" width="1088" height="725" transform="translate(692 189.943)" fill="url(#pattern)"/>
+      </g>
+      <g id="banner-content" transform="translate(96 193.314)">
+        <text id="We_are_DM_Lab." data-name="We are DM Lab." transform="translate(0 100.686)" fill="#3e3e3e" font-size="110" font-family="jf-openhuninn-1.0"><tspan x="0" y="107">We are DM Lab.</tspan></text>
+        <text id="_" data-name="+" transform="translate(512.345 36.338) rotate(-23)" fill="red" font-size="108" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="117">+</tspan></text>
+        <text id="National_Chung_Cheng_University" data-name="National Chung Cheng University" transform="translate(17 345.686)" fill="#666" font-size="40" font-family="jf-openhuninn-1.0"><tspan x="0" y="39">National Chung Cheng University</tspan></text>
+        <text id="Data_Management_Lab" data-name="Data Management Lab" transform="translate(17 269.686)" fill="#666" font-size="40" font-family="jf-openhuninn-1.0"><tspan x="0" y="39">Data Management Lab</tspan></text>
+      </g>
+      <g id="about_us_bn" transform="translate(96 649.75)">
+        <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(0 0.25)" fill="#fff" stroke="#3e3e3e" stroke-width="3">
+          <rect width="191" height="69" rx="29" stroke="none"/>
+          <rect x="1.5" y="1.5" width="188" height="66" rx="27.5" fill="none"/>
+        </g>
+        <text id="About_us" data-name="About us" transform="translate(32 45.25)" fill="#3e3e3e" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="0">About us</tspan></text>
+      </g>
+    </g>
+    <g id="nav">
+      <g id="nav-bg" fill="#3e3e3e" stroke="#707070" stroke-width="1">
+        <rect width="1920" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1919" height="119" fill="none"/>
+      </g>
+      <g id="logo" transform="translate(72 -88)">
+        <g id="logo_img" transform="translate(94 105.908)">
+          <rect id="Rectangle_1" data-name="Rectangle 1" width="13" height="14" transform="translate(0 5.092)" fill="#fff"/>
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="13" height="14" transform="translate(0 21.293)" fill="#fff"/>
+          <rect id="Rectangle_3" data-name="Rectangle 3" width="13" height="14" transform="translate(0 37.787)" fill="#fff"/>
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="13" height="14" transform="translate(17.658 21.293)" fill="#fff"/>
+          <rect id="Rectangle_5" data-name="Rectangle 5" width="13" height="14" transform="translate(17.658 37.787)" fill="#fff"/>
+          <rect id="Rectangle_6" data-name="Rectangle 6" width="13" height="14" transform="translate(35.317 37.787)" fill="#fff"/>
+          <g id="Rectangle_7" data-name="Rectangle 7" transform="matrix(0.788, -0.616, 0.616, 0.788, 15.056, 8.004)" fill="none" stroke="#fff" stroke-width="2">
+            <rect width="13" height="14" stroke="none"/>
+            <rect x="1" y="1" width="11" height="12" fill="none"/>
+          </g>
+          <g id="Rectangle_8" data-name="Rectangle 8" transform="matrix(0.788, -0.616, 0.616, 0.788, 32.231, 24.561)" fill="none" stroke="#fff" stroke-width="2">
+            <rect width="13" height="14" stroke="none"/>
+            <rect x="1" y="1" width="11" height="12" fill="none"/>
+          </g>
+          <g id="Path_1" data-name="Path 1" transform="translate(36.163 0.518)" fill="none">
+            <path d="M0,0H13V14H0Z" stroke="none"/>
+            <path d="M 2 2 L 2 12 L 11 12 L 11 2 L 2 2 M 0 0 L 13 0 L 13 14 L 0 14 L 0 0 Z" stroke="none" fill="#fff"/>
+          </g>
+        </g>
+        <text id="DM_Lab" data-name="DM Lab" transform="translate(153 115)" fill="#fff" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="29">DM Lab</tspan></text>
+        <text id="_2" data-name="+" transform="translate(224.352 98.695) rotate(73)" fill="red" font-size="40" font-family="jf-openhuninn-1.0"><tspan x="0" y="39">+</tspan></text>
+      </g>
+      <g id="navbar-list" transform="translate(45 -7)">
+        <text id="About" transform="translate(1163.029 49.099)" fill="#fff" font-size="28" font-family="jf-openhuninn-1.0"><tspan x="0" y="27">About</tspan></text>
+        <text id="Publication" transform="translate(1442 49)" fill="#fff" font-size="28" font-family="jf-openhuninn-1.0"><tspan x="0" y="27">Publication</tspan></text>
+        <text id="Member" transform="translate(1286 49)" fill="#fff" font-size="28" font-family="jf-openhuninn-1.0"><tspan x="0" y="27">Member</tspan></text>
+        <text id="Contact" transform="translate(1633 49)" fill="#fff" font-size="28" font-family="jf-openhuninn-1.0"><tspan x="0" y="27">Contact</tspan></text>
+        <rect id="navbar" width="1907" height="120" transform="translate(-38 18)" fill="none"/>
+      </g>
+    </g>
+    <g id="contact_us_title" transform="translate(-3 2633)">
+      <g id="background-4" data-name="background" transform="translate(3 1019)" fill="#fffff8" stroke="#707070" stroke-width="1">
+        <rect width="1920" height="776" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1919" height="775" fill="none"/>
+      </g>
+      <text id="Contact_us" data-name="Contact us" transform="translate(571 1105)" fill="#3e3e3e" font-size="60" font-family="jf-openhuninn-1.0"><tspan x="228.148" y="59">Contact us</tspan></text>
+      <line id="Line_1-2" data-name="Line 1" x2="128" transform="translate(639.5 1146.5)" fill="none" stroke="#3e3e3e" stroke-width="5"/>
+      <line id="Line_2-2" data-name="Line 2" x2="128" transform="translate(1129.5 1146.5)" fill="none" stroke="#3e3e3e" stroke-width="5"/>
+      <g id="contact-2" data-name="contact" transform="translate(287 1255.265)">
+        <rect id="Map" width="471" height="396" transform="translate(0 -0.265)" fill="url(#pattern-2)"/>
+        <text id="Address_:_創新大樓_lab_317_National_Chung_Cheng_University_Chiayi_Taiwan_Phone_:_886_05_272-0411_ext._33135_Email_:_hsueh_cs.ccu.edu.tw" data-name="Address : 創新大樓 lab 317  National Chung Cheng University, Chiayi, Taiwan
+
+Phone :  +886 (05) 272-0411 ext. 33135 
+
+Email : hsueh@cs.ccu.edu.tw" transform="translate(623 49.735)" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="29" xml:space="preserve">Address : 創新大樓 lab 317  National Chung Cheng </tspan><tspan x="0" y="69">University, Chiayi, Taiwan</tspan><tspan x="0" y="109"></tspan><tspan x="0" y="149" xml:space="preserve">Phone :  +886 (05) 272-0411 ext. 33135 </tspan><tspan x="0" y="189"></tspan><tspan x="0" y="229">Email : hsueh@cs.ccu.edu.tw</tspan></text>
+        <image id="phone" width="55" height="55" transform="translate(544 158.735)" xlink:href="../info/%E6%8F%92%E7%95%AB/phone.png"/>
+        <image id="gmail" width="55" height="55" transform="translate(544 240.736)" xlink:href="../info/%E6%8F%92%E7%95%AB/gmail.png"/>
+        <image id="pin" width="55" height="55" transform="translate(544 49.735)" xlink:href="../info/%E6%8F%92%E7%95%AB/pin.png"/>
+      </g>
+    </g>
+    <g id="lab_life" transform="translate(-3 2675)">
+      <g id="lab_life_tilte" transform="translate(30 -1630)">
+        <text id="Our_lab._life" data-name="Our lab. life" transform="translate(555 1055)" fill="#3e3e3e" font-size="60" font-family="jf-openhuninn-1.0"><tspan x="217.221" y="59">Our lab. life</tspan></text>
+        <line id="Line_1-3" data-name="Line 1" x2="128" transform="translate(623.5 1096.5)" fill="none" stroke="#3e3e3e" stroke-width="5"/>
+        <line id="Line_2-3" data-name="Line 2" x2="128" transform="translate(1113.5 1096.5)" fill="none" stroke="#3e3e3e" stroke-width="5"/>
+      </g>
+      <rect id="Image_1" data-name="Image 1" width="498" height="329.134" transform="translate(435 -369)" fill="url(#pattern-3)"/>
+      <text id="良好的工作環境" transform="translate(1147 -305)" font-size="35" font-family="jf-openhuninn-1.0"><tspan x="31" y="34">良好的工作環境</tspan></text>
+      <text id="每個位子搭配雙螢幕讓工作事半功倍" transform="translate(1104 -206)" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="29">每個位子搭配雙螢幕讓工作事</tspan><tspan x="0" y="67">半功倍</tspan></text>
+      <text id="舒適的休息環境" transform="translate(473 163)" font-size="35" font-family="jf-openhuninn-1.0"><tspan x="31" y="34">舒適的休息環境</tspan></text>
+      <text id="休息是為了走更長遠的路_有提供舒適的沙發來休息" data-name="休息是為了走更長遠的路，有提供舒適的沙發來休息" transform="translate(430 262)" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="29">休息是為了走更長遠的路，有</tspan><tspan x="0" y="67">提供舒適的沙發來休息</tspan></text>
+      <rect id="Image_1-2" data-name="Image 1" width="498" height="329.134" transform="translate(1017 78)" fill="url(#pattern-3)"/>
+      <rect id="Image_1-3" data-name="Image 1" width="498" height="329.134" transform="translate(411 525)" fill="url(#pattern-3)"/>
+      <text id="活動" transform="translate(1136 589)" font-size="35" font-family="jf-openhuninn-1.0"><tspan x="118.5" y="34">活動</tspan></text>
+      <text id="lorem" transform="translate(1093 688)" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="29">lorem</tspan></text>
+    </g>
+    <g id="Footer" transform="translate(0 -688.179)">
+      <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(0 5116.179)" fill="#3e3e3e" stroke="#707070" stroke-width="1">
+        <rect width="1920" height="407" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1919" height="406" fill="none"/>
+      </g>
+      <g id="logo-2" data-name="logo" transform="translate(109 5183.594)">
+        <rect id="Rectangle_1-2" data-name="Rectangle 1" width="13" height="14" transform="translate(0 20.585)" fill="#fff"/>
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="13" height="14" transform="translate(0 39.585)" fill="#fff"/>
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="13" height="14" transform="translate(0 58.585)" fill="#fff"/>
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" width="13" height="14" transform="translate(18 39.585)" fill="#fff"/>
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" width="13" height="14" transform="translate(18 58.585)" fill="#fff"/>
+        <rect id="Rectangle_6-2" data-name="Rectangle 6" width="13" height="14" transform="translate(36 58.585)" fill="#fff"/>
+        <g id="Rectangle_7-2" data-name="Rectangle 7" transform="matrix(0.788, -0.616, 0.616, 0.788, 18.068, 22.791)" fill="none" stroke="#fff" stroke-width="2">
+          <rect width="13" height="14" stroke="none"/>
+          <rect x="1" y="1" width="11" height="12" fill="none"/>
+        </g>
+        <g id="Rectangle_8-2" data-name="Rectangle 8" transform="matrix(0.788, -0.616, 0.616, 0.788, 39.068, 41.791)" fill="none" stroke="#fff" stroke-width="2">
+          <rect width="13" height="14" stroke="none"/>
+          <rect x="1" y="1" width="11" height="12" fill="none"/>
+        </g>
+        <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(41.76 14.536) rotate(-2)" fill="none" stroke="#fff" stroke-width="2">
+          <rect width="13" height="14" stroke="none"/>
+          <rect x="1" y="1" width="11" height="12" fill="none"/>
+        </g>
+        <text id="DM_Lab-2" data-name="DM Lab" transform="translate(68 21.585)" fill="#fff" font-size="40" font-family="jf-openhuninn-1.0"><tspan x="0" y="39">DM Lab</tspan></text>
+        <text id="_3" data-name="+" transform="translate(162.344) rotate(73)" fill="red" font-size="40" font-family="jf-openhuninn-1.0"><tspan x="0" y="39">+</tspan></text>
+      </g>
+      <text id="Contact:_-_Address_:_創新大樓_lab_317_National_Chung_Cheng_University_Chiayi_Taiwan_-_Phone_:_886_05_272-0411_ext._33135_-_Email_:_hsueh_cs.ccu.edu.tw" data-name="Contact:
+
+- Address : 創新大樓 lab 317  National Chung Cheng University, Chiayi, Taiwan
+- Phone :  +886 (05) 272-0411 ext. 33135 
+- Email : hsueh@cs.ccu.edu.tw" transform="translate(1103 5209.179)" fill="#fff" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="29">Contact:</tspan><tspan x="0" y="67"></tspan><tspan x="0" y="105" xml:space="preserve">- Address : 創新大樓 lab 317  National Chung Cheng </tspan><tspan x="0" y="143">University, Chiayi, Taiwan</tspan><tspan x="0" y="181" xml:space="preserve">- Phone :  +886 (05) 272-0411 ext. 33135 </tspan></text>
+      <text id="_Copyright_DM_All_Rights_Reserved" data-name="© Copyright DM+ All Rights Reserved" transform="translate(109 5349.179)" fill="#fff" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="29">© Copyright DM+ All </tspan><tspan x="0" y="67">Rights Reserved</tspan></text>
+      <text id="Useful_link:_-_home_-_about_-_publications_" data-name="Useful link:
+
+- home
+- about
+- publications
+" transform="translate(688 5209.179)" fill="#fff" font-size="30" font-family="jf-openhuninn-1.0"><tspan x="0" y="29">Useful link:</tspan><tspan x="0" y="67"></tspan><tspan x="0" y="105">- home</tspan><tspan x="0" y="143">- about</tspan><tspan x="0" y="181">- publications</tspan></text>
+    </g>
+  </g>
+</svg>
