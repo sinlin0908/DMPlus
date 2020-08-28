@@ -257,3 +257,8 @@ main {
 iframe.map {
   width: 100%;
 }
+
+.award__college,
+.award__master {
+  margin-bottom: 50px;
+}
