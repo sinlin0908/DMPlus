@@ -259,6 +259,7 @@ iframe.map {
 }
 
 .award__college,
-.award__master {
+.award__master,
+.project__college {
   margin-bottom: 50px;
 }
